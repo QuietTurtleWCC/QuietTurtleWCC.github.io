@@ -1,0 +1,20 @@
+a:link {
+  font-family: Arial Black;
+  color: #3333ff;
+  text-decoration: none;
+}
+a:hover {
+  font-family: Arial Black;
+  color: #3333ff;
+  text-decoration: underline;
+}
+a:visited {
+  font-family: Arial Black;
+  color: #cc33cc;
+  text-decoration: none;
+}
+a:active {
+  font-family: arial black;
+  color: #3366ff;
+  text-decoration: none;
+}
